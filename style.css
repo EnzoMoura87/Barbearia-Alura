@@ -292,6 +292,12 @@ ul li:hover {
         justify-content: center;
         align-items: center;
     }
+
+    .produtos {
+        width: 270px;
+        margin: 50px 0;
+        padding: 10px;
+    }
 }
 
 
