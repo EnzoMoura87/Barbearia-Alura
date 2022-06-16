@@ -214,6 +214,7 @@ ul li:hover {
 @media (max-width:479px) {
     .descricao > p {
         text-align: justify;
+        font-size: 1.1em;
     }  
 
     .video {
